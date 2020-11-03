@@ -33,3 +33,7 @@ Discord giveaway bot using **[discord-giveaways](https://npmjs.com/discord-givea
 
 # Giveaway
 ![image](https://i.imgur.com/q9hLwJ4.png)
+
+<a href="https://top.gg/bot/730307957081768037%22%3E
+    <img src="https://top.gg/api/widget/730307957081768037.svg" alt="BombaBot" />
+</a>
